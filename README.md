@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<h1>About me❓</h1>
+⚪ Myself Ritvik Anand, I am a cross platform developer(specialising in <b>Front end Web Developmet</b>) pursuing Computer Science and Engineering from Jammu, India. 
+
+⚪ from 2019 to 2022 i was freelancing as a **graphic designer** and **Ui designer**, I recently learnt **React and I am working on improving my skillset** in using the specific library and looking forward to build more projects.
+
+⚪ Outside my tech world I am an **avid reader** and I am a **Formula 1 fan** trying to learn about **new development in Data analysis in the world of F1.**
 <!--
 **Ritvik-Anand/Ritvik-Anand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
